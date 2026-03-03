@@ -1,4 +1,4 @@
-# Falcon Media -- Magento 2 CSP SRI Lock
+# Falcon Media -Magento 2 CSP SRI Lock
 
 **Package:** `falconmedia/magento2-csp-sri-lock`\
 **Type:** Magento 2 Module\
