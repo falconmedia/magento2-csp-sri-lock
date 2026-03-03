@@ -5,11 +5,6 @@
 **License:** MIT\
 **Maintainer:** Henk Valk <henk@falconmedia.nl>
 
-------------------------------------------------------------------------
-
-
-------------------------------------------------------------------------
-
 ## Installation
 
 ### Via Composer
@@ -19,9 +14,8 @@
     php bin/magento setup:upgrade
     php bin/magento cache:flush
 
-------------------------------------------------------------------------
 
-## 🔍 Verification
+## Verification
 
 After installation, verify that the correct storage class is active:
 
@@ -31,9 +25,8 @@ Expected output:
 
     Preference: FalconMedia\CspSriLock\Model\SubresourceIntegrity\Storage\File
 
-------------------------------------------------------------------------
 
-## Problem
+## Issue
 
 Magento 2.4.x stores Subresource Integrity (SRI) hashes in:
 
